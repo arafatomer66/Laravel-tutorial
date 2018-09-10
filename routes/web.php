@@ -13,5 +13,5 @@
 
 
 
-Route::resource('/article','ArticleController');
-Route::resource('/category','CategoryController');
+// Route::resource('/article','ArticleController');
+// Route::resource('/category','CategoryController');
